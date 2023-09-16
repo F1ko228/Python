@@ -1,0 +1,5 @@
+string: cuckoo cuckoo bought a hood 234
+allSymbols: 26
+letters: 23
+notLetters: 3
+repeatingLetters: {'c': 4, 'u': 3, 'k': 2, 'o': 7, ' ': 5, 'b': 1, 'g': 1, 'h': 2, 't': 1, 'a': 1, 'd': 1, '2': 1, '3': 1, '4': 1}
